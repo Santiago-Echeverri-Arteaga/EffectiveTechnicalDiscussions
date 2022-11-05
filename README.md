@@ -1,6 +1,5 @@
 # EffectiveTechnicalDiscussions
-[![Python application test with Github Actions](https://github.com/Santiago-Echeverri-Arteaga/EffectiveTechnicalDiscussions/actions/workflows/main.yml/badge.svg)](https://github.com/Santiago-Echeverri-Arteaga/EffectiveTechnicalDiscussions/actions/workflows/main.yml)
-
+[![Python application test with Github Actions](https://github.com/Santiago-Echeverri-Arteaga/EffectiveTechnicalDiscussions/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Santiago-Echeverri-Arteaga/EffectiveTechnicalDiscussions/actions/workflows/main.yml)
 Workspace for the Duke course: Cloud Computing Foundations
 
 ## Notebook inside the course plataform 
